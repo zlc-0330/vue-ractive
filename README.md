@@ -117,7 +117,7 @@ console.log(obj.b);
 
 底层机制就是改写七个方法。
 
-{% asset_img 图片3.png This is an example image %}
+![图片3](./README/图片3.png)
 
 Object.setPrototypeOf() 这个方法可以改变一个东西的原型。
 
